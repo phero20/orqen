@@ -343,6 +343,16 @@ stateDiagram-v2
 
 
 
+## Project Status
+
+> **🚧 Pre-Implementation — Specification Complete**
+
+Orqen is currently in the pre-implementation phase. The full product specification, architecture, data model, API contracts, SDK spec, and contributor documentation are complete. Active development begins **October 2026**. No production code exists yet — that's intentional.
+
+If you're here early, the best thing you can do is **read the spec, open issues with feedback, and watch this repo** so you're notified the moment the first code drops. Early contributors who understand the architecture will have the most impact.
+
+---
+
 ## Documentation Index
 
 | # | File | What It Covers |
